@@ -1,6 +1,5 @@
 Django
 djangorestframework
-psycopg2
 PyYAML
 djangorestframework-simplejwt
 drf-yasg
